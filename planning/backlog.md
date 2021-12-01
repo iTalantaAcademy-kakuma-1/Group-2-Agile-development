@@ -1,0 +1,28 @@
+# Must have
+
+I as the hosting company would like to see my visitors having seen a clear and
+visible title of our website.
+
+I as the hosting company would like to have form on my website to collect users'
+data to enable me to get in contact with them.
+
+I as the hosting company would like my visitors to get the links to my social
+media platforms on my website to enable me to link up with them for more
+information.
+
+# Should have
+
+I as the hosting company would like my visitors to navigate through the website
+and see different contents on the website.
+
+I as the hosting company would like my visitors to learn about programming
+languages such as Node.js, Python, C#, Ruby, PHP, Scala and clojure. This can
+help them become developers
+
+I would like my visitors to get more information on my website to enable them
+learn more about my projects.
+
+# Could have
+
+I as the hosting company would like to have the form on my website to enable me
+get in contact with the users of my website.
