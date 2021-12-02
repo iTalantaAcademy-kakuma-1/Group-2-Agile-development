@@ -18,6 +18,10 @@ design part of the website.
 
 ## **Features** DESCRIPTIONS
 
-This page describe the unigue different task we do as a company.
+This page describe the unique different task we do as a company.
 
 ## **Documents** DESCRIPTIONS
+
+This page of the website explain the essentials of loruki company. This will
+include the introduction, about us, deployment, project publish, managing
+Resources and setting up.
