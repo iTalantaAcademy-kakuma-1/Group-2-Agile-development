@@ -19,9 +19,12 @@ as Node.js, Python, C#, Ruby, PHP, Scala and clojure. This can help them become
 developers
 
 I would like my visitors to get more information on my website to enable them
-learn more about my projects.
+learn more about my projects. I as the owner would like to have the form on my
+website to enable me get in contact with the users of my website.
+
+I as the user needs a copyright of my website.
 
 # Could have
 
-I as the owner would like to have the form on my website to enable me get in
-contact with the users of my website.
+I as the owner would like to see the background picture of the staffs. I as the
+owner would like to see the link to staff's profiles
