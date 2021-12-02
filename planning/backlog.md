@@ -9,6 +9,14 @@ enable me to get in contact with them.
 I as the owner would like my visitors to get the links to my social media
 platforms on my website to enable me to link up with them for more information.
 
+I as the owner would like the visitors to see the statistics of the total
+projects, published projects and deployed projects.
+
+I as the owner would like my visitors to know how to install NPM
+
+I as the owner would like my visitors to know the advantages of using my
+platform.
+
 # Should have
 
 I as the owner would like my visitors to navigate through the website and see
