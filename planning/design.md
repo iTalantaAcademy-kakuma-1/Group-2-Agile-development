@@ -5,3 +5,7 @@
 ## Features page design
 
 ![Features](./Features%20page.png)
+
+## Docs page Design
+
+![Docs](./DesignDocument.png)

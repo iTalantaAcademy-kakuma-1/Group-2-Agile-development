@@ -1,4 +1,4 @@
-# (Group 2 Agile Development )
+# Group 2 Agile Development
 
 <!-- describe your project -->
 
