@@ -8,7 +8,7 @@ Our project is about a hosting platform that describe more about our work as
 developers.
 
 we have sub-divide the website into pages where users can navigate to understand
-more of what we do, our complete projects and hwo many we published. below are
+more of what we do, our complete projects and how many we published. below are
 some the pages you will be able to navigate to:
 
 ## **Home** DESCRIPTIONs
