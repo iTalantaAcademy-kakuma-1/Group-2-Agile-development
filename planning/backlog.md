@@ -34,5 +34,6 @@ I as the user needs a copyright of my website.
 
 # Could have
 
-I as the owner would like to see the background picture of the staffs. I as the
-owner would like to see the link to staff's profiles
+I as the owner would like to see the background picture of the staffs.
+
+I as the owner would like to see the link to staff's profiles
