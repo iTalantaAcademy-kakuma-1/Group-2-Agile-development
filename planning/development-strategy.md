@@ -5,11 +5,11 @@ title of our website."
 
 Add header
 
-**Html**:
+`Html`
 
 Add h1
 
-**Css**:
+`Css`
 
 Add header to be in bold
 
@@ -24,7 +24,7 @@ enable me to get in contact with them."
 
 Add a form
 
-**html:**
+`html`
 
 Add h2
 
@@ -32,7 +32,7 @@ Add the input fields together with placeholders
 
 Add the submit button
 
-**CSS:**
+`CSS`
 
 make h2 bold
 
@@ -53,11 +53,11 @@ platforms on my website to enable me to link up with them for more information."
 
 Add a footer section
 
-**html:**
+`html`
 
 Add social media image links
 
-**Css:**
+`Css`
 
 change the image link sizes
 
@@ -72,7 +72,7 @@ projects, published projects and deployed projects."
 
 Add a statistics section
 
-**html:**
+`html`
 
 Add a descriptive paragraph
 
@@ -80,7 +80,7 @@ Add a statistics images
 
 Add statistics data and their description
 
-**Css:**
+`Css`
 
 position the paragraph to the center
 
@@ -95,11 +95,11 @@ projects.
 
 Add a container
 
-**html:**
+`html`
 
 Add npm installation command
 
-**CSS:**
+`CSS`
 
 Change the background color of the container
 
@@ -112,7 +112,7 @@ platform."
 
 Add a header
 
-**html:**
+`html`
 
 Add h1
 
@@ -122,7 +122,7 @@ Add image
 
 Add a button of read more
 
-**CSS;**
+`CSS`
 
 Change the font size of the h1
 
@@ -137,13 +137,13 @@ different contents on the website."
 
 Add navigation menu
 
-**html:**
+`html`
 
 Add the nav links
 
 Add the read more button
 
-**css:**
+`css`
 
 change the background color of the nav section.
 
@@ -159,7 +159,7 @@ developers"
 
 Add programming languages section
 
-**html:**
+`html`
 
 Add h1
 
@@ -167,7 +167,7 @@ Add programming languages images
 
 Add the corresponding text to the images
 
-**css:**
+`css`
 
 change the font size and style of the header
 
@@ -181,13 +181,13 @@ position the icons of programming languages to the center
 
 Add header
 
-**html:**
+`html`
 
 add h1
 
 add copyright symbol and text
 
-**css:**
+`css`
 
 change the color and the font size of the text
 
@@ -197,11 +197,11 @@ change the color and the font size of the text
 
 Add an image
 
-**html:**
+`html`
 
 add a background image
 
-**css:**
+`css`
 
 change the height and width of the image.
 
@@ -213,13 +213,13 @@ make the image transparent
 
 add link profiles of the staffs
 
-**HTML:**
+`HTML`
 
 add image links of the staffs
 
 add the staff names
 
-**CSS:**
+`CSS`
 
 Change the font size and the color of the names of the staff
 
